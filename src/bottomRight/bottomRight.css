@@ -1,0 +1,8 @@
+.rightt {
+  float: right;
+  padding-right: 12%;
+  align-items: flex-end;
+  text-align: end;
+  height: auto;
+  width: 50%;
+}
